@@ -1,10 +1,10 @@
-### Hi 👋, I'm Andrei
-A passionate backend developer from Armenia
+### Hi 👋, I'm Andrei.
+A passionate backend developer from Armenia.
 
-## About Me
-* I’m looking to collaborate on open source python library projects
-* I’m currently learning backend development
-* Ask me about anything, and i will tell something
+## About Me:
+* I’m looking to collaborate on open source python library projects.
+* I’m currently learning backend development.
+* Ask me about anything, and i will tell something.
 
 
 ### 🌐 Socials:
