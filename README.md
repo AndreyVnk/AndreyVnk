@@ -1,10 +1,10 @@
 ### Hi 👋, I'm Andrei.
-A passionate backend developer from Armenia.
+A passionate system engineer from Spain, Valencia.
 
 ## About Me:
 * I’m looking to collaborate on open source python library projects.
-* I’m currently learning backend development.
-* Ask me about anything, and I will tell something.
+* I’m currently learning DevOps approaches and tools.
+* Ask me about anything, and I'll tell something.
 
 
 ### 🌐 Socials:
