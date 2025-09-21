@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=DevOps%20Engineer&fontSize=40&animation=fadeIn)
-
-# 👋 Hi, I'm Andrei 
+## 👋 Hi, I'm Andrei 
 💻 DevOps Engineer | 🚀 CI/CD • Kubernetes • Cloud • Monitoring
 
 ---
