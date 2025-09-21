@@ -4,7 +4,7 @@
 
 ---
 
-### 🔥 💻 Tech Stack:
+### 🔥 Tech Stack
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform)
 ![Ansible](https://img.shields.io/badge/Automation-Ansible-EE0000?logo=ansible)
 ![Docker](https://img.shields.io/badge/Containers-Docker-2496ED?logo=docker)
@@ -15,12 +15,12 @@
 
 ---
 
-### 🌐 Socials:
+### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-bychkov-166b14109)
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/veneklasen)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/veneklasen)
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=AndreyVnk&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndreyVnk&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyVnk&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
